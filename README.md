@@ -1,8 +1,9 @@
 # The project uses the following technologies:
 1) Python Django
-2) Django Rest framework for APIs
-3) postgresql
-4) Next.js
-5) Typescript
-6) Tailwind css
-7) JWT authentication
+2) ORM (Object-Relational Mapping)
+3) Django Rest framework for APIs
+4) postgresql
+5) Next.js
+6) Typescript
+7) Tailwind css
+8) JWT authentication
